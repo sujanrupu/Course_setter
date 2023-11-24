@@ -1,0 +1,86 @@
+.cards {
+    display: grid;
+    position: absolute;
+    grid-template-columns: auto auto auto;
+    margin-left: 200px;
+    grid-gap: 8px 10px;
+}
+
+.btn-red {
+    height: 6vh;
+    width: 7vmax;
+    text-align: center;
+    align-items: center;
+    cursor: pointer;
+    margin-left: 10px;
+    background-color: rgb(73, 3, 73);
+    color: whitesmoke;
+    font-weight: bolder;
+    font-size: small;
+    border: none;
+}
+
+.btn-red:hover {
+    border: 1px solid white;
+    color: white;
+}
+
+.btn-red1 {
+    height: 6vh;
+    width: 8vmax;
+    text-align: center;
+    align-items: center;
+    cursor: pointer;
+    margin-left: 10px;
+    background-color: rgb(73, 3, 73);
+    color: whitesmoke;
+    font-weight: bolder;
+    font-size: small;
+    border: none;
+}
+
+.btn-red1:hover {
+    border: 1px solid white;
+    color: white;
+}
+
+.btns {
+    margin-left: 0;
+    background-color: rgb(197, 34, 197);
+    margin-right: 60px;
+    width: 70vmax;
+    padding-left: 415px;
+    margin-top: -20px;
+    padding-top: 20px;
+}
+
+.heading {
+    height: 10vh;
+    width: 10vmax;
+    background-color: rgb(44, 2, 44);
+    margin-top: -20px;
+    padding-top: 6px;
+    padding-left: 844px;
+    padding-right: 590px;
+    margin-left: -200px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.container {
+    margin-left: -30px;
+    padding: 0;
+
+}
+
+.cards {
+    min-height: 79vh;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(197, 34, 197);
+    margin-left: 17px;
+    padding-left: 200px;
+    padding-right: 300px;
+    padding-bottom: 20px;
+    width: 854px;
+}

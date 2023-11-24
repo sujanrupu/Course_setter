@@ -1,0 +1,51 @@
+/* .catalog{
+    margin-left: 250px;
+} */
+
+.image {
+    height: 130px;
+    width: 260px;
+    margin-top: 15px;
+    margin-left: 30px;
+}
+
+.title {
+    max-width: 260px;
+    padding-left: 10px;
+    padding-right: 20px;
+    font-weight: bolder;
+    font-size: large;
+    margin-top: -4px;
+    padding-top: 7px;
+    background-color: rgb(73, 3, 73);
+    color: white;
+    min-height: 50px;
+    margin-left: 30px;
+}
+
+.text {
+    max-width: 260px;
+    padding-left: 10px;
+    padding-right: 8px;
+    margin-top: -30px;
+    padding-top: 5px;
+    background-color: rgb(73, 3, 73);
+    color: white;
+    font-size: smaller;
+    padding-bottom: 10px;
+    margin-left: 30px;
+}
+
+.merge {
+    position: relative;
+}
+
+.merge img {
+    display: block;
+}
+
+.container .like {
+    position: absolute;
+    margin-left: 240px;
+    margin-top: -20px;
+}
